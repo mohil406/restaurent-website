@@ -1,0 +1,119 @@
+h1{
+    display: inline-block;
+    font-size: 2rem;
+    position: relative;
+    top: 1rem;
+    font-weight: 800;
+    color: darkgreen;
+}
+.img{
+    width: 5%;
+}
+.first{
+    margin-left: 5rem;
+    margin-top: 0%;
+}
+.fa-solid{
+    position: relative;
+    left: 65%;
+    top: 1rem;
+    font-size: 2rem;
+}
+hr{
+border-style: solid;
+color: grey;
+}
+.large{
+    width: 90%;
+    border-radius: 100%;
+    position: relative;
+    left: 10%;
+}
+#top{
+    margin-top: 2rem;
+}
+.love{
+    position: relative;
+    top: 3rem;
+    left: 2rem;
+}
+.font{
+    font-size: 5rem;
+}
+h6{
+    width: 30%;
+    background-color: darkgreen
+}
+.green{
+    color: white;
+}
+button{
+    background-color: darkgoldenrod;
+    border-radius: 12px;
+    width: 20%;
+}
+button:hover{
+    background-color: darkgreen;
+}
+.card{
+    margin-top: 5rem;
+    margin-left: 4rem;
+    height: 49%;
+}
+.intermediate{
+    height: 7rem;
+   text-align: center;
+   background-color: black;
+   color: wheat;
+   margin-top: 3rem;
+}
+.img-1{
+    width: 53%;
+border-radius: 12px;
+padding-right: 0.4rem;
+
+}
+.img-2{
+    width: 25%;
+    height: 20rem;
+    border-radius: 12px;
+
+}
+.foodiee{
+margin-top: 3rem;
+margin-left: 20%;
+margin-bottom: 0.5rem;
+}
+.img-3{
+    border-radius: 12px;
+    width: 25%;
+    position: relative;
+    left: 13rem;
+    padding-right: 0.4rem;
+
+}
+.img-4{
+    border-radius: 12px ;
+    width: 20%;
+    position: relative;
+    left: 13rem;
+    padding-right: 0.4rem;
+}
+.img-5{
+    border-radius: 12px;
+    width: 25%;
+    position: relative;
+    left: 13rem;
+    
+}
+.foot{
+    height: 12rem;
+    margin-top: 3rem;
+    background-color: coral;
+    text-align: center;
+}
+.fa{
+    font-size: 3rem;
+    padding-left: 1.5rem;
+    padding-top: 2rem;
+}
